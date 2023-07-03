@@ -1,0 +1,9 @@
+pyspark
+apache_beam
+pandas
+numpy
+matplotlib
+seaborn
+pymongo
+ydata_profiling
+beam_nuggets

@@ -1,0 +1,13 @@
+/data/
+/data/databases/
+/data/ordered_by_timestamp_data.csv
+/data/.~lock.punks_test.csv#
+/data/transactions/
+/data/cleaned_punks.csv
+/data/dbms/
+/data/punks_test.csv
+/data/server_id
+/data/shakespeare_6.0.json
+/data/syn-internet-usage.csv
+/data/synth-internet-usage.json
+
